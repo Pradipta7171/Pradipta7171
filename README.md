@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradipto Dutta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipta7171&label=Profile%20views&color=0e75b6&style=flat" alt="pradipta7171" /> </p>
 
