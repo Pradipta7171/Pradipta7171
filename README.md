@@ -1,3 +1,6 @@
+![logo](https://github.com/Pradipta7171/Pradipta7171/blob/main/LinkedinBackgroudPic.png)
+
+
 <h1 align="center">Hi 👋, I'm Pradipto Dutta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
