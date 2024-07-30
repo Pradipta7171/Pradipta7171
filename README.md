@@ -25,6 +25,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;DSA+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
+<br>
+
 ## 🚀 About Me
 
 - 🔭 Currently diving deep into **DSA and Backend Technologies**
@@ -32,8 +34,9 @@
 - 💼 Open for exciting opportunities in tech
 - ⚡ Fun fact: Web developers can work from anywhere with an internet connection, making the whole world their office! 🌍💻
 
-## 🛠️ Tech Stack & Tools
+<br>
 
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -50,27 +53,37 @@
 ### 🔨 Tools & Platforms
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+<br>
 
 ## 📊 GitHub Stats
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradipta7171&show_icons=true&theme=radical" alt="Pradipta's GitHub stats">
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipta7171&theme=dark" alt="Pradipta's GitHub Streak">
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pradipta7171&theme=darkhub&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Pradipta's GitHub Trophies">
 </div>
 
+<br>
+
 <hr style="border: 0; height: 3px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pradipta7171&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+<br>
 
 <h3 align="center">Let's connect and create something amazing together! 🚀</h3>
 
