@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello World! I'm Pradipta Dutta</h1>
 
 <p align="center">
-  <em>|| Aspiring Software Engineer & Graphic Designer || Seeking Opportunities to Innovate and Create</em>
+  <em> Aspiring Software Engineer & Graphic Designer || Seeking Opportunities to Innovate and Create </em>
 </p>
 
 <p align="center">
@@ -34,9 +34,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<details>
-<summary><b>Click to expand!</b></summary>
-
 <div align="center">
 
 ### 💻 Languages
@@ -56,8 +53,6 @@
 
 </div>
 
-</details>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,12 +64,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pradipta7171&theme=radical&no-frame=true&row=1&margin-w=20&no-bg=true" alt="Pradipta's GitHub Trophies" width="100%" />
 </div>
 
-<hr style="width:70%;text-align:center;margin-top:20px;margin-bottom:20px;">
+<hr style="border: 0; height: 3px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=pradipta7171&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
-<p align="center">
-  <em>Let's connect and create something amazing together! 🚀</em>
-</p>
+<h3 align="center">Let's connect and create something amazing together! 🚀</h3>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/github/followers/pradipta7171?label=follow&style=social)](https://github.com/pradipta7171)
+
+</div>
