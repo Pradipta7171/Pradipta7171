@@ -55,12 +55,15 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradipta7171&show_icons=true&theme=radical" alt="Pradipta's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipta7171&theme=dark" alt="Pradipta's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradipta7171&show_icons=true&theme=radical" alt="Pradipta's GitHub stats">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradipta7171&theme=darkhub&no-frame=true&row=1&margin-w=20&no-bg=true" alt="Pradipta's GitHub Trophies" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipta7171&theme=dark" alt="Pradipta's GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradipta7171&theme=darkhub&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Pradipta's GitHub Trophies">
 </div>
 
 <hr style="border: 0; height: 3px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
