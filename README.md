@@ -3,19 +3,19 @@
 <h1 align="center">👋 Hello! I'm Pradipta Dutta.</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently Learning **DSA and **
+- 🔭 I’m currently Learning **DSA and Backend Technology**
 
-- 🌱 My interest is in **Web Development**
+- 🌱 My interest is in **Web Development and Graphic Designing**
 
-- 📫 How to reach me **pradipto9798@gmail.com**
+- 📫 How to reach me ** pradipto9798@gmail.com **
+  
+- 📫 My Portfolio Link ** [pradipto9798@gmail.com](https://pradipto-web-portfolio.vercel.app/) **
 
 - ⚡ Fun fact **do you know? 🤔 Web Developers are digital nomads.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <a href="https://twitter.com/nikhilsatyam2" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsatyam2?logo=twitter&style=for-the-badge" alt="nikhilsatyam2" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/pradipto-dutta2024/" target="blank"><img src="https://img.shields.io/twitter/follow/pradipto?logo=linkedin&style=for-the-badge" alt="Pradipta Dutta" /></a> </p>
-
+<p align="left"> <a href="https://www.linkedin.com/in/pradipto-dutta2024/" target="blank"><img src="https://img.shields.io/twitter/follow/pradiptodutta?logo=linkedin&style=for-the-badge" alt="Pradipta Dutta" /></a> </p>
 </p>
 
 ## Technologies and Tools 👨‍💻
@@ -37,14 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikh9123&show_icons=true&locale=en" alt="nikh9123" /></p>
 
-<h1 align="center">Hi 👋, I'm Pradipto Dutta</h1>
-<h3 align="left">A passionate Full Stack developer from India</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipta7171&label=Profile%20views&color=0e75b6&style=flat" alt="pradipta7171" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradipta7171" alt="pradipta7171" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
