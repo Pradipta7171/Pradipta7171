@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Pradipta7171/Pradipta7171/blob/main/LinkedinBackgroudPic.png" alt="Pradipta Dutta's Logo" width="100%">
+  <img src="https://github.com/Pradipta7171/Pradipta7171/blob/main/LinkedinBackgroudPic.png" alt="Pradipta Dutta's Logo" width="800px" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <h1 align="center">👋 Hello World! I'm Pradipta Dutta</h1>
@@ -12,7 +12,7 @@
   <a href="https://pradipto-web-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:pradipto9798@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/pradipto-dutta2024/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/your_instagram_handle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/p_dutta18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <div align="center">
