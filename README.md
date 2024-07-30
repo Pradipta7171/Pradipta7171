@@ -12,7 +12,7 @@
   <em>"Turning ideas into reality, one line of code at a time. Building the future, pixel by pixel."</em>
 </p>
 
-<div align="center">
+<div align="center" target="_blank">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pradipto-web-portfolio.vercel.app)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradipto9798@gmail.com)
