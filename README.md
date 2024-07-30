@@ -9,13 +9,13 @@
 
 - 📫 How to reach me ** pradipto9798@gmail.com **
   
-- 📫 My Portfolio Link ** [pradipto9798@gmail.com](https://pradipto-web-portfolio.vercel.app/) **
+- 📫 My Portfolio Link ** https://pradipto-web-portfolio.vercel.app **
 
 - ⚡ Fun fact **do you know? 🤔 Web Developers are digital nomads.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <a href="https://www.linkedin.com/in/pradipto-dutta2024/" target="blank"><img src="https://img.shields.io/twitter/follow/pradiptodutta?logo=linkedin&style=for-the-badge" alt="Pradipta Dutta" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/pradipto-dutta2024/" target="blank"><img src="https://img.shields.io/linkedln/follow/pradiptodutta?logo=linkedin&style=for-the-badge" alt="Pradipta Dutta" /></a> </p>
 </p>
 
 ## Technologies and Tools 👨‍💻
