@@ -5,15 +5,21 @@
 <h1 align="center">👋 Hello World! I'm Pradipta Dutta</h1>
 
 <p align="center">
-  <em>A passionate Full Stack Developer crafting digital experiences from India 🇮🇳</em>
+  <em>|| Aspiring Software Engineer & Graphic Designer || Seeking Opportunities to Innovate and Create</em>
 </p>
 
 <p align="center">
-  <a href="https://pradipto-web-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:pradipto9798@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/pradipto-dutta2024/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/p_dutta18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <em>"Turning ideas into reality, one line of code at a time. Building the future, pixel by pixel."</em>
 </p>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pradipto-web-portfolio.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradipto9798@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradipto-dutta2024/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p_dutta18/)
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;DSA+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
@@ -24,9 +30,14 @@
 - 🔭 Currently diving deep into **DSA and Backend Technologies**
 - 🌱 Passionate about **Web Development and Graphic Designing**
 - 💼 Open for exciting opportunities in tech
-- ⚡ Fun fact: Did you know? 🤔 Web Developers are digital nomads!
+- ⚡ Fun fact: Web developers can work from anywhere with an internet connection, making the whole world their office! 🌍💻
 
 ## 🛠️ Tech Stack & Tools
+
+<details>
+<summary><b>Click to expand!</b></summary>
+
+<div align="center">
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,24 +54,25 @@
 ### 🔨 Tools & Platforms
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+</div>
+
+</details>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradipta7171&show_icons=true&theme=radical" alt="Pradipta's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradipta7171&show_icons=true&theme=radical" alt="Pradipta's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipta7171&theme=radical" alt="Pradipta's GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipta7171&theme=dark" alt="Pradipta's GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradipta7171&theme=radical&no-frame=true&row=1&margin-w=20&no-bg=true" alt="Pradipta's GitHub Trophies" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradipta7171&theme=darkhub&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Pradipta's GitHub Trophies">
-</div>
-
-<hr>
+<hr style="width:70%;text-align:center;margin-top:20px;margin-bottom:20px;">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradipta7171&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=pradipta7171&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
