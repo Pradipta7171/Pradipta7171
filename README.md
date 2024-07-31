@@ -57,13 +57,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pradipta7171&show_icons=true&theme=radical" alt="Pradipta's GitHub stats">
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipta7171&theme=dark" alt="Pradipta's GitHub Streak">
 </div>
 
