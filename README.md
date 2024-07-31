@@ -2,7 +2,7 @@
   <img src="https://github.com/Pradipta7171/Pradipta7171/blob/main/LinkedinBackgroudPic.png" alt="Pradipta Dutta's Logo" width="800px" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-<h1 align="center">👋 Hello World! I'm Pradipta Dutta</h1>
+<h1 align="center">👋 Hello! I'm Pradipta Dutta</h1>
 
 <p align="center">
   <em> Aspiring Software Engineer & Graphic Designer || Seeking Opportunities to Innovate and Create </em>
