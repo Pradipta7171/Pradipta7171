@@ -33,6 +33,11 @@
 - 🌱 Passionate about **Web Development and Graphic Designing**
 - 💼 Open for exciting opportunities in tech
 - ⚡ Fun fact: Web developers can work from anywhere with an internet connection, making the whole world their office! 🌍💻
+- 📌 **Internship**:  
+  **Technology Engineer Trainee** at **Equifax** (Feb 2025 - Present)  
+  Location: Pune, India  
+  Description:  
+  Currently undergoing training at Equifax, focusing on Java development and cloud technologies. Gaining hands-on experience in developing scalable applications and working with cloud infrastructure.
 
 <br>
 
