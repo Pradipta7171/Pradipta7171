@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello! I'm Pradipta Dutta</h1>
 
 <p align="center">
-  <em> junior SRE @Equifax || Seeking Opportunities to Innovate and Create </em>
+  <em> Junior SRE @Equifax || Seeking Opportunities to Innovate and Create </em>
 </p>
 
 <p align="center">
